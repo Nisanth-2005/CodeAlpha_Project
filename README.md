@@ -1,10 +1,27 @@
-# CodeAlpha_Project
+CodeAlpha_Project
+ #Project Overview
+Due to file size limitations, I couldn't upload the complete project files directly to GitHub. Instead, I’ve shared the files via Google Drive:
 
-Hi 
+ LINK: https://drive.google.com/drive/folders/1dSa4ldsNOqf-X_sSgMqGdZ4DghMlDlKx?usp=drive_link
 
-#I not able to upload file on GitHub because of large size.so i upload in google drive.
-# In the GitHub i upload file link.
-# To Development the app's i use "co pilot" and "chat gpt".
-# I use VS Code and lang i use flutter to Development.
+Tech Stack
+ #Language: Dart (Flutter)
 
-LINK:https://drive.google.com/drive/folders/1dSa4ldsNOqf-X_sSgMqGdZ4DghMlDlKx?usp=drive_link
+ #IDE: Visual Studio Code
+
+ #Tools Used:
+
+ #GitHub Copilot
+
+ #ChatGPT
+
+ Notes
+#The full source code and assets are in the linked Google Drive folder.
+
+#GitHub is used here to provide metadata, documentation, and an easy access link to the actual project.
+
+Contact
+
+Feel free to reach out if you have any questions or feedback!
+
+email: nisanthsamayam2005@gmail.com
